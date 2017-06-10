@@ -1,0 +1,10 @@
+{
+  "accounts": [
+    {
+      "id": "acc_000010A3za4so3kVo7PzSE",
+      "created": "2016-07-10T10:37:20.123Z",
+      "description": "Mr Joe Blogs",
+      "type": "uk_prepaid"
+    }
+  ]
+}
